@@ -1,0 +1,1 @@
+/Users/christopherbarnes/cmsc23500/rust-primer-abigailbarnes/module_5/result_option/target/debug/libsolution.rlib: /Users/christopherbarnes/cmsc23500/rust-primer-abigailbarnes/module_5/result_option/src/solution.rs
